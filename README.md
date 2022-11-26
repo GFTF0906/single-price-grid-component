@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshots
 
 ![Project Desktop](./assets/images/project-desktop.png)
-![Project Mobile](./assets/images/project-mobile.png)
+![Project Mobile](./assets/images/project-mobile-design.png)
 
 ### Links
 
