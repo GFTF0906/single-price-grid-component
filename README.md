@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/GFTF0906/single-price-grid-component)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://gftf0906.github.io/single-price-grid-component/)
 
 ## My process
 
