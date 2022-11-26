@@ -13,8 +13,8 @@
   --CLR-LIGHT-GRAY: hsl(204, 43%, 93%);
   --CLR-W: hsl(0, 0%, 100%);
   
-  --CLR-GRAYISH-BLUE: hsl(218, 50%, 76%);
-  --CLR-GRAYISH-BLUE-SC: hsl(217, 59%, 79%);
+  --CLR-GRAYISH-BLUE: hsl(218, 79%, 79%);
+  --CLR-GRAYISH-BLUE-SC: hsl(218, 55%, 91%);
 
   --FT-FAMILY: 'Karla', sans-serif;
 }
@@ -62,6 +62,10 @@ a:focus, a:active, a:hover {
 }
 
 /* CLASSES STYLES */
+.title, .grid__componenttitle, .fs__maintitle, .p__title, .scs__maintitle, .price__title {
+  display: none;
+}
+
 .main {
   display: flex;
   justify-content: center;
@@ -83,7 +87,7 @@ a:focus, a:active, a:hover {
 
 /* FIRST SECTION */
 .first__section {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
 }
 
 .fs__title {
@@ -179,6 +183,7 @@ a:focus, a:active, a:hover {
   margin-bottom: 2rem;
 }
 
+/* RESPONSIVE STYLES */
 @media screen and (min-width: 375px) and (max-width: 420px) {
   .main {
     margin: 4rem 0.5rem 1rem;
