@@ -47,7 +47,7 @@ body {
 
   min-height: 100vh;
   
-  background: var(--CLR-LIGHT-GRAY);
+  background: linear-gradient(to right bottom, var(--CLR-LIGHT-GRAY), var(--CLR-W));
 }
 
 a, a:any-link {
